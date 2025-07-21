@@ -1,0 +1,15 @@
+amenity,name,website,opening_hour,closing_hour,lat,lon
+bar,Sky Bar,http://www.skybar.ro/,12:00,22:00,44.4572887,26.095949
+bar,Pe baricade,https://instagram.com/pe_baricade?igshid=1bw5mktrfs942,10:00,22:00,44.4249344,26.1073688
+cafe,Isoletta,https://isoletta.ro/,12:00,23:00,44.4778722,26.0850025
+cafe,Tress Cafe,https://www.facebook.com/Tress-CaffeLounge-180875141990658/,10:00,22:00,44.4276707,26.1309008
+cinema,IMAX,https://www.cinemacity.ro/imax,00:00,23:59,44.4313649,26.053715
+cinema,Hollywood Multiplex,https://hmultiplex.ro/,07:00,18:00,44.419819,26.1272566
+nightclub,Expirat,https://expirat.org/,20:00,06:00,44.4156103,26.093082
+nightclub,Encore Club,https://www.facebook.com/encorerockclub#,16:00,03:00,44.4299784,26.0975218
+pub,The Dubliner,http://dubliner.ro/,10:00,22:00,44.4523305,26.0772008
+pub,Argentin,https://argentin-restaurant.ro/,08:00,23:00,44.4322301,26.101746
+restaurant,Pizza Hut,https://www.pizzahut.ro/homepage,11:00,22:00,44.4346528,26.0984804
+restaurant,La Fattoria,http://www.lafattoria.ro/,12:00,22:00,44.4805585,26.0859548
+theatre,Teatrul Excelsior,http://www.teatrul-excelsior.ro/,13:00,00:00,44.4377008,26.098427
+theatre,Club 99,https://www.99club.ro/,12:00,00:00,44.4463248,26.1078525
